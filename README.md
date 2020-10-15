@@ -4,7 +4,7 @@ A Flutter application for realtime OCR.
 
 ## To Run:
 1. create a firebase app in firebase account and get the google-services.json file
-2. Paste google-services.json file in ~/android/app/
+2. Place google-services.json file in ~/android/app/
 3. Hit 'Run' from IDE (Android Studio)
 
 ## Getting Started
